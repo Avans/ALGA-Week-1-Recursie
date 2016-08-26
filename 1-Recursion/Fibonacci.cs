@@ -17,5 +17,14 @@ namespace ALGA
         {
             throw new NotImplementedException();
         }
+
+        public enum Answer { IterativeIsFaster, RecursiveIsFaster };
+
+        public static Answer which_is_faster()
+        {
+            throw new NotImplementedException();
+            // return Answer.IterativeIsFaster;
+            // return Answer.RecursiveIsFaster;
+        }
     }
 }
