@@ -16,5 +16,10 @@ namespace ALGA
         {
             throw new NotImplementedException();
         }
+
+        public static int triangular_number_function(int n)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
